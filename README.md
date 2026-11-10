@@ -11,6 +11,7 @@
 | [NodeThemes Analytics AI](https://github.com/nodethemes/nodethemes-analytics-ai) | Free privacy-first analytics plugin for WordPress and WooCommerce |
 | [NodeThemes Webhooks](https://github.com/nodethemes/nodethemes-webhooks) | Free WooCommerce webhooks plugin for n8n, Make and Zapier |
 | [NodeThemes Image Optimizer](https://github.com/nodethemes/nodethemes-image-optimizer) | Free WebP image optimizer plugin for WordPress |
+| [NodeThemes Cache AI](https://github.com/nodethemes/nodethemes-cache-ai) | Free cache plugin for WordPress and WooCommerce, tested before it goes live |
 
 Download them all without an account at [nodethemes.com/free-plugins](https://nodethemes.com/free-plugins/).
 
