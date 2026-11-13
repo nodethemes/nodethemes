@@ -20,6 +20,7 @@ Download them all without an account at [nodethemes.com/free-plugins](https://no
 
 - [FoodieGo](https://nodethemes.com/product/foodiego-restaurant-ordering-theme/) – restaurant ordering theme with no marketplace commission ([Multi-Location add-on](https://nodethemes.com/product/foodiego-multi-location/))
 - [ShopNex](https://nodethemes.com/product/shopnex-woocommerce-theme-fast-beautiful-design-for-online-stores/) – fast WooCommerce theme for online stores
+- [BookNex](https://nodethemes.com/product/booknex-bookstore-woocommerce-theme/) – WooCommerce bookstore theme for paperback and eBook shops ([showcase](https://github.com/nodethemes/booknex))
 
 ## Guides
 
